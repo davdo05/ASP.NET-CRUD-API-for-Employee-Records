@@ -1,6 +1,6 @@
 # How it Works
 
-At first glance this project may look like a simple API, but it’s actually a fully implemented **RESTful Web API** built with **C# and ASP.NET (.NET 8)** to manage employee records. It handles all CRUD operations (Create, Read, Update, Delete) through well-defined endpoints, with built-in validation, documentation, and a clean architecture.
+A fully implemented **RESTful Web API** built with **C# and ASP.NET (.NET 8)** to manage employee records. It handles all CRUD operations (Create, Read, Update, Delete) through well-defined endpoints, with built-in validation, documentation, and a clean architecture.
 
 ---
 
